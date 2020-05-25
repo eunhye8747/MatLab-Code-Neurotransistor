@@ -1,6 +1,7 @@
 # MatLab-Code-Neurotransistor
 This is the Matlab code to support the mathematical model in the article published in Nature Electronics,
 entitled "Intrinsic plasticity of silicon nanowire neurotransistors for dynamic memory and learning functions"
+https://www.nature.com/articles/s41928-020-0412-1
 
 The mathematical formulas were derived from the circuit model of the neurotransistor.
 This code verifies that the mathematical model can describe the current dynamics of the neurotransistors.  
