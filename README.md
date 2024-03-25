@@ -9,4 +9,4 @@ The result is shown in Figure S6 of Supplementary Information of the article.
 
 This code was written by Prof. Nikhil Ranjan Das. [Department of Radio Physics and Electronics, University of Calcutta]
 
-Any question? Please send me an email! (eunhye8747@gmail.com)
+Any questions? Please send me an email! (eunhye8747@gmail.com)
